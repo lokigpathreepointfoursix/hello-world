@@ -134,3 +134,9 @@ gpg-agent[78337]: gpg-agent (GnuPG) 2.2.4 started
 (wrapper-1.0:78384): Gtk-WARNING **: 12:04:10.299: Unable to locate theme engine in module_path: "pixmap",
 
 ** (xfdesktop:78347): WARNING **: 12:04:11.188: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
