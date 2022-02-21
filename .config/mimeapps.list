@@ -1,0 +1,9 @@
+[Added Associations]
+text/plain=gedit.desktop;
+text/x-c++src=emacs25.desktop;
+text/x-csrc=gedit.desktop;
+application/x-sharedlib=atom.desktop;htop.desktop;python3.7.desktop;
+text/x-python=python3.6.desktop;gedit.desktop;python3.7.desktop;
+text/markdown=gedit.desktop;
+text/x-log=gedit.desktop;
+application/x-shellscript=emacs25.desktop;

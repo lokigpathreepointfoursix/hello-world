@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Tor Browser Setup
+GenericName=Web Browser
+Comment=Tor Browser is +1 for privacy and −1 for mass surveillance
+Categories=Network;WebBrowser;Security;
+Exec=sh -c '"$(dirname "$*")"/Browser/start-tor-browser --detach || ([ ! -x "$(dirname "$*")"/Browser/start-tor-browser ] && "$(dirname "$*")"/start-tor-browser --detach)' dummy %k
+X-TorBrowser-ExecShell=./Browser/start-tor-browser --detach
+Icon=web-browser
+StartupWMClass=Tor Browser
+X-XFCE-Source=file:///student/21/ext/h3593022/.cache/.fr-hERZ9Z/tor-browser_en-US/start-tor-browser.desktop

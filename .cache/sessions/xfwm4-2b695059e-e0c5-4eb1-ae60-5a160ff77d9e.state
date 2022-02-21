@@ -1,0 +1,60 @@
+[CLIENT] 0x1a01098
+  [CLIENT_LEADER] 0x1a00001
+  [WINDOW_ROLE] gnome-terminal-window-6cc88500-3a20-40b6-97b7-1b9912e518c9
+  [RES_NAME] gnome-terminal-server
+  [RES_CLASS] Gnome-terminal
+  [WM_NAME] h3593022@academy11: ~
+  [WM_COMMAND] (1) "gnome-terminal-server"
+  [GEOMETRY] (141,207,737,459)
+  [GEOMETRY-MAXIMIZED] (141,207,737,459)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x1a00005
+  [CLIENT_LEADER] 0x1a00001
+  [WINDOW_ROLE] gnome-terminal-window-df94418c-5f4c-4675-a372-47042d944dbf
+  [RES_NAME] gnome-terminal-server
+  [RES_CLASS] Gnome-terminal
+  [WM_NAME] h3593022@academy11: ~
+  [WM_COMMAND] (1) "gnome-terminal-server"
+  [GEOMETRY] (3,60,737,459)
+  [GEOMETRY-MAXIMIZED] (3,60,737,459)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080
+[CLIENT] 0x1a007ff
+  [CLIENT_LEADER] 0x1a00001
+  [WINDOW_ROLE] gnome-terminal-window-b3f00253-03ae-417d-992c-38831794c4d4
+  [RES_NAME] gnome-terminal-server
+  [RES_CLASS] Gnome-terminal
+  [WM_NAME] h3593022@academy11: ~
+  [WM_COMMAND] (1) "gnome-terminal-server"
+  [GEOMETRY] (3,60,737,459)
+  [GEOMETRY-MAXIMIZED] (3,60,737,459)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080
+[CLIENT] 0x1a00ec4
+  [CLIENT_LEADER] 0x1a00001
+  [WINDOW_ROLE] gnome-terminal-window-cfc87dda-7799-45ca-a5be-b8cf93aaf322
+  [RES_NAME] gnome-terminal-server
+  [RES_CLASS] Gnome-terminal
+  [WM_NAME] h3593022@academy11: ~
+  [WM_COMMAND] (1) "gnome-terminal-server"
+  [GEOMETRY] (3,60,737,459)
+  [GEOMETRY-MAXIMIZED] (3,60,737,459)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080
+[CLIENT] 0x1a00f57
+  [CLIENT_LEADER] 0x1a00001
+  [WINDOW_ROLE] gnome-terminal-window-dece7dd4-e983-4092-a9f1-f508cdc529bd
+  [RES_NAME] gnome-terminal-server
+  [RES_CLASS] Gnome-terminal
+  [WM_NAME] h3593022@academy11: ~
+  [WM_COMMAND] (1) "gnome-terminal-server"
+  [GEOMETRY] (3,60,737,459)
+  [GEOMETRY-MAXIMIZED] (3,60,737,459)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080

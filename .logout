@@ -1,0 +1,6 @@
+clear
+
+set my_username=`whoami`
+if (`who | grep $my_username | wc -l` == 1) then
+  find /tmp /var/tmp -user $my_username -depth -exec /bin/rm -fr {} \; >&! /dev/null &
+endif

@@ -1,0 +1,22 @@
+#PCI-CACHE-1.0
+2 8086 2040 0 0 Sky Lake-E Integrated Memory Controller
+2 8086 2041 0 0 Sky Lake-E Integrated Memory Controller
+2 8086 2042 0 0 Sky Lake-E Integrated Memory Controller
+2 8086 2043 0 0 Sky Lake-E Integrated Memory Controller
+2 8086 2044 0 0 Sky Lake-E Integrated Memory Controller
+2 8086 2045 0 0 Sky Lake-E LM Channel 1
+2 8086 2046 0 0 Sky Lake-E LMS Channel 1
+2 8086 2047 0 0 Sky Lake-E LMDP Channel 1
+2 8086 2048 0 0 Sky Lake-E DECS Channel 2
+2 8086 2049 0 0 Sky Lake-E LM Channel 2
+2 8086 204a 0 0 Sky Lake-E LMS Channel 2
+2 8086 204b 0 0 Sky Lake-E LMDP Channel 2
+2 8086 2058 0 0 Sky Lake-E KTI 0
+2 8086 2059 0 0 Sky Lake-E UPI Registers
+2 8086 2066 0 0 Sky Lake-E Integrated Memory Controller
+2 8086 2025 0 0 Sky Lake-E RAS
+2 8086 2026 0 0 Sky Lake-E IOAPIC
+2 8086 2034 0 0 Sky Lake-E VT-d
+2 8086 2036 0 0 Sky Lake-E IOxAPIC Configuration Registers
+6 c 80 0 0 Serial bus controller
+2 1556 be00 0 0 PCI Express Bridge

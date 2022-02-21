@@ -1,0 +1,150 @@
+XSession-x2go: X session started for h3593022 at Thu Feb  3 22:57:58 HKT 2022
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-McuS1wgMPx,guid=13d10cccb6c1b303cfc5bda861fbed76
+dbus-update-activation-environment: setting DISPLAY=:56
+dbus-update-activation-environment: setting XAUTHORITY=/student/21/ext/h3593022/.Xauthority
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+xhost:  must be on local machine to add or remove hosts.
+localuser:h3593022 being added to access control list
+xhost:  must be on local machine to add or remove hosts.
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+dbus-update-activation-environment: setting PULSE_CLIENTCONFIG=/student/21/ext/h3593022/.x2go/C-h3593022-56-1643900270_stDXFCE_dp32/.pulse-client.conf
+dbus-update-activation-environment: setting SSH_CONNECTION=147.8.179.16 37166 147.8.179.104 22
+dbus-update-activation-environment: setting X2GO_AGENT_PID=13786
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting QT_GRAPHICSSYSTEM=native
+dbus-update-activation-environment: setting DISPLAY=:56
+dbus-update-activation-environment: setting SSH_AUTH_SOCK=/student/21/ext/h3593022/.x2go/C-h3593022-56-1643900270_stDXFCE_dp32/ssh-agent.PID
+dbus-update-activation-environment: setting USER=h3593022
+dbus-update-activation-environment: setting PWD=/student/21/ext/h3593022
+dbus-update-activation-environment: setting HOME=/student/21/ext/h3593022
+dbus-update-activation-environment: setting SSH_CLIENT=147.8.179.16 37166 22
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XSESSION_EXEC=xfce4-session
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting MAIL=/var/mail/h3593022
+dbus-update-activation-environment: setting TERM=dumb
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/25183/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting X2GO_SESSION=h3593022-56-1643900270_stDXFCE_dp32
+dbus-update-activation-environment: setting SHLVL=4
+dbus-update-activation-environment: setting LOGNAME=h3593022
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-McuS1wgMPx,guid=13d10cccb6c1b303cfc5bda861fbed76
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/25183
+dbus-update-activation-environment: setting XAUTHORITY=/student/21/ext/h3593022/.Xauthority
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting STARTUP=/usr/bin/env LD_LIBRARY_PATH= xfce4-session
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent[14460]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:14382): xfce4-session-WARNING **: 22:57:59.053: gpg-agent returned no PID in the variables
+
+(xfce4-session:14382): xfce4-session-WARNING **: 22:57:59.055: xfsm_manager_load_session: Something wrong with /student/21/ext/h3593022/.cache/sessions/xfce4-session-academy21:56, Does it exist? Permissions issue?
+
+(xfwm4:14463): xfwm4-WARNING **: 22:57:59.077: The display does not support the XComposite extension.
+
+(xfwm4:14463): xfwm4-WARNING **: 22:57:59.077: Compositing manager disabled.
+
+(xfce4-panel:14467): Gtk-WARNING **: 22:57:59.106: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:14471): Gtk-WARNING **: 22:57:59.106: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:14382): Gtk-WARNING **: 22:57:59.106: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:14467): Gtk-WARNING **: 22:57:59.106: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:14471): Gtk-WARNING **: 22:57:59.106: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:14382): Gtk-WARNING **: 22:57:59.106: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:14467): Gtk-WARNING **: 22:57:59.107: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:14471): Gtk-WARNING **: 22:57:59.107: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:14382): Gtk-WARNING **: 22:57:59.107: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:14467): Gtk-WARNING **: 22:57:59.108: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:14471): Gtk-WARNING **: 22:57:59.108: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:14382): Gtk-WARNING **: 22:57:59.108: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:14467): Gtk-WARNING **: 22:57:59.108: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:14471): Gtk-WARNING **: 22:57:59.108: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:14382): Gtk-WARNING **: 22:57:59.108: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:14472): xfsettingsd-CRITICAL **: 22:57:59.114: Your XI is too old (1.3) version 1.4 is required.
+
+(xfsettingsd:14472): xfsettingsd-CRITICAL **: 22:57:59.115: Failed to change the keyboard repeat
+
+(Thunar:14469): Gtk-WARNING **: 22:57:59.119: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:14469): Gtk-WARNING **: 22:57:59.119: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:14469): Gtk-WARNING **: 22:57:59.119: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:14469): Gtk-WARNING **: 22:57:59.120: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:14469): Gtk-WARNING **: 22:57:59.121: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:14472): Gtk-WARNING **: 22:57:59.134: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:14472): Gtk-WARNING **: 22:57:59.135: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:14472): Gtk-WARNING **: 22:57:59.135: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:14472): Gtk-WARNING **: 22:57:59.136: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:14472): Gtk-WARNING **: 22:57:59.136: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:14463): xfwm4-WARNING **: 22:57:59.145: Error opening /dev/dri/card0: No such file or directory
+
+(xfwm4:14463): Gtk-WARNING **: 22:57:59.153: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:14463): Gtk-WARNING **: 22:57:59.153: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:14463): Gtk-WARNING **: 22:57:59.154: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:14463): Gtk-WARNING **: 22:57:59.155: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:14463): Gtk-WARNING **: 22:57:59.155: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:14508): Gtk-WARNING **: 22:57:59.279: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:14508): Gtk-WARNING **: 22:57:59.279: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:14508): Gtk-WARNING **: 22:57:59.279: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:14507): Gtk-WARNING **: 22:57:59.280: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:14508): Gtk-WARNING **: 22:57:59.280: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:14507): Gtk-WARNING **: 22:57:59.280: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:14508): Gtk-WARNING **: 22:57:59.280: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:14507): Gtk-WARNING **: 22:57:59.281: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:14507): Gtk-WARNING **: 22:57:59.282: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:14507): Gtk-WARNING **: 22:57:59.282: Unable to locate theme engine in module_path: "pixmap",
+
+** (xfdesktop:14471): WARNING **: 22:58:00.161: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'
+
+** (xfdesktop:14471): CRITICAL **: 22:58:00.635: xfce_backdrop_loader_closed_cb: assertion 'XFCE_IS_BACKDROP(backdrop)' failed
+
+(Thunar:14469): thunar-WARNING **: 23:23:11.629: Content type loading failed for .hello.sh.swp: Error when getting information for file “/student/21/ext/h3593022/.hello.sh.swp”: No such file or directory
+
+(Thunar:14469): thunar-WARNING **: 23:29:36.140: Content type loading failed for .add.cpp.swp: Error when getting information for file “/student/21/ext/h3593022/Module 1/.add.cpp.swp”: No such file or directory
+
+(gedit:39098): Gtk-WARNING **: 23:50:22.712: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+
+(gedit:44967): Gtk-WARNING **: 23:53:08.497: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+xfwm4: Fatal IO error 4 (Interrupted system call) on X server :56.0.
+xfdesktop: Fatal IO error 4 (Interrupted system call) on X server :56.0.
